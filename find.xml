@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'FTTH collector'" />
-    <option name="defaultScopeName" value="Project 'FTTH collector'" />
-    <option name="SEARCH_SCOPE" value="Project 'FTTH collector'" />
+    <option name="customScope" value="Project 'odk collect'" />
+    <option name="defaultScopeName" value="Project 'odk collect'" />
+    <option name="SEARCH_SCOPE" value="Project 'odk collect'" />
   </component>
 </application>
